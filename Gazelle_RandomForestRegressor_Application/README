@@ -1,7 +1,6 @@
 ForestFineTune.py - script for fine tuning RandomForest hyperparameters
 
-Plotter.py - script for plotting the relationship between error and depth for test set and train set to 
-             identify optimal hyperparameters
+Plotter.py - script for plotting the relationship between error and depth for test set and train set to identify optimal hyperparameters
 
 Predictor.py - core logic of the web application
 
