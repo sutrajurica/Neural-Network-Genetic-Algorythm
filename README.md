@@ -1,14 +1,3 @@
-A repository featuring a Streamlit web application and a Neural Network optimized using a Genetic Algorithm.
-
----
-
-## 🌐 Gazelle Web Application
-
-- **Live Web App:** [gazelle.streamlit.app](https://gazelle.streamlit.app/)
-- **Sample Dataset:** [Kaggle - Running Log Insight](https://www.kaggle.com/datasets/jeffreybraun/running-log-insight)
-
----
-
 ## 🧠 Neural Network (Genetic Algorithm Optimization)
 
 > **Note:** All credits for test files, specifications, and assignment instructions go to the **Faculty of Electrical Engineering and Computing (FER)**.
