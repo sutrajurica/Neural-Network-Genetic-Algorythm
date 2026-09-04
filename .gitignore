@@ -1,4 +1,6 @@
 *
 !NeuralNetwork/
 !NeuralNetwork/**
+!Gazelle_RandomForestRegressor_Application/
+!Gazelle_RandomForestRegressor_Application/**
 !.gitignore
