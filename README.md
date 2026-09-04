@@ -17,7 +17,7 @@ A repository featuring a Streamlit web application and a Neural Network optimize
 
 ```bash
 python solution.py --train sine_train.txt --test sine_test.txt --nn 5s --popsize 10 --elitism 1 --p 0.1 --K 0.1 --iter 10000
-
+```
 | Parameter | Argument | Description |
 | :--- | :--- | :--- |
 | **Training Data** | `--train` | Path to the training dataset file |
