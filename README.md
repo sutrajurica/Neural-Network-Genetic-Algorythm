@@ -22,7 +22,7 @@ python solution.py --train sine_train.txt --test sine_test.txt --nn 5s --popsize
 | :--- | :--- | :--- |
 | **Training Data** | `--train` | Path to the training dataset file |
 | **Testing Data** | `--test` | Path to the testing dataset file |
-| **NN Architecture** | `--nn` | Neural network architecture definition (e.g., `5s`) |
+| **NN Architecture** | `--nn` | Neural network architecture definition (e.g. input -> 5 -> 5 -> output (5s5s)) |
 | **Population Size** | `--popsize` | Population size for the genetic algorithm |
 | **Elitism** | `--elitism` | Number of elite individuals preserved per generation |
 | **Mutation Rate** | `--p` | Mutation probability for each chromosome element |
